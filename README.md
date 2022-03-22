@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 <div align="center">
   
   <a href="https://github.com/diogosens">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogosens&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogosens&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=diogosens&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogosens&layout=compact&langs_count=7&theme=gruvbox"/>
 
 </div>
 
