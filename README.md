@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Harlok's WakaTime stats](https://github-readme-stats-xi-indol-92.vercel.app/api/wakatime?username=diogosens)](https://github.com/diogosens/github-readme-stats)
-
 <div align="center">
   
   <a href="https://github.com/diogosens">
